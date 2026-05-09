@@ -15,7 +15,7 @@ The free plan is limited to 50,000 requests per month, and doesn't include some 
 ## Installation
 
 ### Swift Package Manager
-fengyuan##fyinformation.ccyang##
+WnwiomkahefyinformationHoctocpccBjckieja
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
 
 Once you have your Swift package set up, adding ipinfo as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift`.
