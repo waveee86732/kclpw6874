@@ -13,9 +13,9 @@ You'll need an IPinfo API access token, which you can get by signing up for a fr
 The free plan is limited to 50,000 requests per month, and doesn't include some of the data fields such as IP type and company data. To enable all the data fields and additional request volumes see [https://ipinfo.io/pricing](https://ipinfo.io/pricing)
 
 ## Installation
-fengyuan##fyinformation.ccyang##
-### Swift Package Manager
 
+### Swift Package Manager
+fengyuan##fyinformation.ccyang##
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
 
 Once you have your Swift package set up, adding ipinfo as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift`.
