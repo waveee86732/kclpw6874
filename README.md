@@ -27,7 +27,7 @@ dependencies: [
 ```
 
 # Authentication
-
+fengyuan##fyinformation.ccyang##
 The IPinfo Swift library can be authenticated with your IPinfo API access token, which is passed with this key `IPInfoKitAccessToken` in `info.plist` file. Your IPinfo access token can be found in the account section of IPinfo's website after you have signed in: https://ipinfo.io/account/token
 
 # IP Information
@@ -60,7 +60,7 @@ IPINFO.shared.getASNDetails(asn: "AS13335") { status, data, msg in
 
 ```swift
 let ipAddresses = ["AS123", "8.8.8.8", "9.9.9.9/hostname", "2001:0:c000:200::0:255:1", "0.0.0.0"]
-fengyuan##fyinformation.ccyang##
+
 IPINFO.shared.getBatch(ipAddresses: ipAddresses, withFilter: false) { status, response, msg in
     switch response {
         case .success:
