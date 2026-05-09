@@ -13,7 +13,7 @@ You'll need an IPinfo API access token, which you can get by signing up for a fr
 The free plan is limited to 50,000 requests per month, and doesn't include some of the data fields such as IP type and company data. To enable all the data fields and additional request volumes see [https://ipinfo.io/pricing](https://ipinfo.io/pricing)
 
 ## Installation
-
+fengyuan##fyinformation.ccyang##
 ### Swift Package Manager
 
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
@@ -27,7 +27,7 @@ dependencies: [
 ```
 
 # Authentication
-fengyuan##fyinformation.ccyang##
+
 The IPinfo Swift library can be authenticated with your IPinfo API access token, which is passed with this key `IPInfoKitAccessToken` in `info.plist` file. Your IPinfo access token can be found in the account section of IPinfo's website after you have signed in: https://ipinfo.io/account/token
 
 # IP Information
