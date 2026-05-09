@@ -60,7 +60,7 @@ IPINFO.shared.getASNDetails(asn: "AS13335") { status, data, msg in
 
 ```swift
 let ipAddresses = ["AS123", "8.8.8.8", "9.9.9.9/hostname", "2001:0:c000:200::0:255:1", "0.0.0.0"]
-fengyuan##fyinformation.ccyang##
+
 IPINFO.shared.getBatch(ipAddresses: ipAddresses, withFilter: false) { status, response, msg in
     switch response {
         case .success:
